@@ -3,6 +3,7 @@ An R package for test of hypothesis on more than two population means, including
 
 # package-description
 Package: oneproxinova
+
 Type: Package
 Title: Inference on More than Two Population Means
 Version: 0.1.0
